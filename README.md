@@ -33,11 +33,11 @@
    <a href="https://github.com/hud0shnik/hud0shnik.github.io" > 
    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/></a>
 
-    <!-- JavaScript -->
+   <!-- JavaScript -->
    <a href="https://github.com/hud0shnik/hud0shnik.github.io" > 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/></a>
 
-    <!-- Java -->
+   <!-- Java -->
    <a href="https://github.com/hud0shnik/hud0shnik.github.io" > 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
   
@@ -53,7 +53,7 @@
 
 </p>
 
-<img alt=" Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Krishna-A17&langs_count=4&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E&hide=JavaScript,CSS,Java,HTML,c%2B%2B,Ren'Py" height="198px"/>
+
 
 <h3>🔥 Statistics :</h3>
 
