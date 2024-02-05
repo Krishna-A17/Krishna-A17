@@ -49,8 +49,7 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 
 </p>
-<p>
-<h3>🧑🏻‍💻 Most Used Languages</h3>
+<!-- <h3>🧑🏻‍💻 Most Used Languages</h3>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-A17)](https://github.com/Krishna-A17?tab=repositories)
@@ -58,11 +57,17 @@
 <h3>🔥 Statistics :</h3>
 
 
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Krishna-A17&theme=dark" alt="GitHub Streak" /></a>
-
-</p>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Krishna-A17&theme=dark" alt="GitHub Streak" /></a> -->
 
 
+
+## Current GitHub Stats 📊
+![Stats](https://github-readme-stats.vercel.app/api?username=Krishna-A17&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-A17&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
+> Check Commits below, GitHub stats are sometimes inaccurate due to caching.
+
+## GitHub Streaks 🔥
+![Streaks](http://github-readme-streak-stats.herokuapp.com?user=Krishna-A17&theme=jolly&date_format=j%20M%5B%20Y%5D)
 
 
 
