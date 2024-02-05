@@ -65,7 +65,7 @@
 
 ---
 <p align="center">
-<img src="https://github.com/Krishna-A17/Krishna-A17/blob/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/Krishna-A17/Krishna-A17/blob/main/github-contribution-grid-snake.svg">
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=Krishna-A17&pretty=true)](https://visitcount.itsvg.in)
