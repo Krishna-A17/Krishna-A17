@@ -32,7 +32,7 @@
    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
 
    <!-- JavaScript -->
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/>
+   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="Javascript" width="40" height="40"/>
 
    <!-- Bootstrap -->
    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" height="40"/>
