@@ -17,7 +17,7 @@
 <h3>✉️ Connect with me :</h3>
 <p>
    <a href="https://www.linkedin.com/in/balakrishna-alampalli-7b4281216/" ><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="" height="40" width="40"/></a>
-   <a href="krishna1703k@gmail.com"><img align="center" src="https://www.liblogo.com/img-logo/gm453f62f-gmail-logo-file-gmail-icon-2020-svg-wikimedia-commons.png" alt="" height="40" width="40"/></a>
+   <a href="krishna1703k@gmail.com"><img align="center" src="https://icons8.com/icon/P7UIlhbpWzZm/gmail" alt="" height="40" width="40"/></a>
    
 </p>
 
