@@ -61,5 +61,12 @@
 ## GitHub Streaks 🔥
 ![Streaks](http://github-readme-streak-stats.herokuapp.com?user=Krishna-A17&theme=jolly&date_format=j%20M%5B%20Y%5D)
 
+### Thanks for Visiting my GitHub Profile!
 
+---
+<p align="center">
+<img src="https://github.com/Krishna-A17/Krishna-A17/blob/output/github-contribution-grid-snake.svg">
+</p>
+
+[![](https://visitcount.itsvg.in/api?id=Krishna-A17&pretty=true)](https://visitcount.itsvg.in)
 
