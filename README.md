@@ -42,7 +42,13 @@
   
    <!-- Python -->
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  
+
+   
+   <!-- Tailwind CSS -->
+   <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="tailwindcss" width="40" height="40"/>
+
+   <!-- React -->
+   <img src="https://www.svgrepo.com/show/452092/react.svg" alt="react" width="40" height="40"/>
 
 
    <!-- Git -->
