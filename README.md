@@ -13,6 +13,17 @@
 - 😄 Fun fact: Astronauts use linux because you can't open windows in space
 - 📫 How to reach me: krishna1703k@gmail.com
 
+- My GitHub repository is a hub for Web development and Data Analytics projects
+- In web development and data analytics. In the web development space, I use HTML, CSS, Tailwind CSS, and JavaScript to create visually appealing and interactive projects.
+  
+- For data analytics, I leverage Python, Jupyter Notebook, and Microsoft Excel. Python allows me to perform robust data manipulation, and Jupyter Notebook helps me present my findings effectively. Microsoft Excel 
+  is handy for data handling and visualization.
+
+ - In terms of development tools, I rely on Visual Studio Code and Jupyter Notebook for coding. Microsoft Power BI adds sophistication to my data analytics visualizations. Microsoft Office tools round out the 
+   suite for documentation, presentation, and project management.
+   
+ - Feel free to explore my projects to see how I bring creativity and technical skills together in both web development and data analytics.
+
 
 <h3>✉️ Connect with me :</h3>
 <p>
