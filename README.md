@@ -3,8 +3,10 @@
 <h3 align="center"><a href="https://github.com/Krishna-A17">
    <img alt="Bala krishna" src="https://readme-typing-svg.herokuapp.com/?lines=Bala+krishna;Full-Stack-developer+Data-Enginner&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
 </h3>
-
-<h3>🔎 About me :</h3>
+<div>
+   <h3>About me:</h3>
+<img align="right" height="250px" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
+  
 
 - ⚡ I love programming
 - 🌱 I’m addicted to learn and grow every day
@@ -12,6 +14,13 @@
 - ⚙️ I’m learning: **Data Engineering and Full Stack Development**
 - 😄 Fun fact: Astronauts use linux because you can't open windows in space
 - 📫 How to reach me: krishna1703k@gmail.com
+  <br>
+  <br>
+  <br>
+  <br>
+</div>
+
+
 
 - My GitHub repository is a hub for Web development and Data Analytics projects
 - In web development and data analytics. In the web development space, I use HTML, CSS, Tailwind CSS, and JavaScript to create visually appealing and interactive projects.
