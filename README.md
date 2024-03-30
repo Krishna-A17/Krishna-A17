@@ -1,7 +1,7 @@
 ### Hi 👋, I'm 
 
 <h3 align="center"><a href="https://github.com/Krishna-A17">
-   <img alt="Bala krishna" src="https://readme-typing-svg.herokuapp.com/?lines=Bala+krishna;Full-Stack-developer+Data-Enginner&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
+   <img alt="Bala krishna" src="https://readme-typing-svg.herokuapp.com/?lines=Bala+krishna;Data-Enginner&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
 </h3>
 <div>
    <h3>About me:</h3>
@@ -58,7 +58,7 @@
    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" height="40"/>
    
    <!-- Java -->
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+   <!-- img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/ -->
   
    <!-- Python -->
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -66,8 +66,10 @@
    <!-- Tailwind CSS -->
    <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="tailwindcss" width="40" height="40"/>
 
+   <img src="https://img.icons8.com/color/48/000000/powerbi.png" alt="tailwindcss" width="40" height="40"/>
    <!-- React -->
-   <img src="https://www.svgrepo.com/show/452092/react.svg" alt="react" width="40" height="40"/>
+   <!-- img src="https://www.svgrepo.com/show/452092/react.svg" alt="react" width="40" height="40"/>
+
 
    <img src="https://www.svgrepo.com/show/303193/microsoft-excel-2013-logo.svg" alt="MIcrosoft excel" width="40" height="40"/>
    
